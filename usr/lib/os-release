@@ -1,0 +1,12 @@
+PRETTY_NAME="Binary-os 1.00 Dark Knight"
+NAME="Binary OS"
+VERSION_ID="1.00"
+VERSION="1.00 (DARK Knight)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
