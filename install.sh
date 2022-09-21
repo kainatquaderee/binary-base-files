@@ -1,5 +1,4 @@
-#!/bin/bash
-cd 
+#!/bin/bash 
 chattr -i /usr/lib/os-release
 chattr -i /etc/lsb-release
 chattr -i /etc/issue
